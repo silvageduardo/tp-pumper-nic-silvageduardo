@@ -24,6 +24,8 @@ Hay otros extras que se le pueden agregar a las hamburguesas:
 
 Se pide diseñar el modelo de clases que permita calcular el costo final de una hamburguesa teniendo el cuenta la cantidad de medallones y los extras.
 
+
+
 ## Papas fritas
 
 Las papas fritas viene de 3 tamaños:
